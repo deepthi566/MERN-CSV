@@ -120,6 +120,24 @@ Bob,9012345678,Follow up next week
 
 Watch the working demo here: https://drive.google.com/file/d/1-8Oqg5zLuyj_NEA_XoIC8R__-CVsq9_a/view?usp=sharing
 
+---
+
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Login
+![Login](./screenshots/login.png)
+
+### Add New Agent
+![Add Agent](./screenshots/new-agent.png)
+
+### Upload CSV
+![Upload CSV](./screenshots/upload-csv.png)
+
+### Distributed Tasks
+![Tasks](./screenshots/tasks.png)
 
 
 
